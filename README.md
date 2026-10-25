@@ -40,7 +40,7 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-
+![image alt](https://github.com/Abhilash4343/EXP-3/blob/d9860b695a6a66ab3f7a66a23166e0eb3cf83779/Screenshot%202026-10-23%20224102.png)
 Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
