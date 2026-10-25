@@ -46,7 +46,7 @@ Tabulation:1
 ![image alt](https://github.com/Abhilash4343/EXP-3/blob/98b1154aa7b336d978c2d10a96ea3d0e32cc2ba0/WhatsApp%20Image%202026-10-25%20at%206.43.42%20PM.jpeg)
 	
 Cross connection: CIRCUIT DIAGRAM:
-![image alt]()
+![image alt](https://github.com/Abhilash4343/EXP-3/blob/34468ea629735707d9a49c446138e1d2560356fc/Screenshot%202026-10-23%20224507.png)
 ![image alt](https://github.com/Abhilash4343/EXP-3/blob/4ca4f130fe0b97e6d29076e4173dcac41b10519d/Screenshot%202026-10-23%20224705.png)
 
 Tabulation:2
